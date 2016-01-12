@@ -11,14 +11,14 @@ safe: true
 
 url: http://tapasweni-pathak.github.io/
 baseurl: http://tapasweni-pathak.github.io/
-title: Tapasweni Pathak
-author: Tapasweni Pathak
-description: Homepage of Tapasweni Pathak.
+title: Piyush Singhai
+author: Piyush Singhai
+description: Homepage of Piyush Singhai.
 avatar: profile.png
-email: tapaswenipathak@gmail.com
-github: tapasweni-pathak # username
-twitter: TapasweniPathak
-linkedin: tapaswenipathak
+email: singhai.piyush@gmail.com
+github: piyushiitg # username
+twitter: piyush_iitg
+linkedin: Piyush Singhai
 
 
 # needed for travis-ci build
