@@ -95,9 +95,9 @@ body {
 .container .text-muted {
   margin: 20px 0;
 }
-.container a {
+/*.container a {
   color: #ffa500;
-}
+}*/
 .container a:hover {
   color: #FF6600;
 }
@@ -176,6 +176,7 @@ body {
 div.footer{
   border-bottom: 5px solid #ffa500;;
 }
+
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
